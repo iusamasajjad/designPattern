@@ -6,7 +6,7 @@ package Github_Example2;
 
 /**
  *
- * @author Muhmmad Saeed
+ * @author usamaqureshi
  */
 public class Demo {
     public static void main(String[] args) {

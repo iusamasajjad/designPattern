@@ -6,7 +6,7 @@ package Wikipedia_Examples;
 
 /**
  *
- * @author Muhmmad Saeed
+ * @author usamaqureshi
  */
 public class Singleton_Pattern {
 

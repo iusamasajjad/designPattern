@@ -6,7 +6,7 @@ package Github_Example;
 
 /**
  *
- * @author Muhmmad Saeed
+ * @author usamaqureshi
  */
 public class Connection {
     

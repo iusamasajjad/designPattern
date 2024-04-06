@@ -6,7 +6,7 @@ package Wikipedia_Examples;
 
 /**
  *
- * @author Muhammad Saeed
+ * @author usamaqureshi
  */
 
     
